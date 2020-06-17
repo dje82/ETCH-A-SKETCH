@@ -14,4 +14,4 @@ Good Luck  to me !
     On a créé une clé ssh et on l'a importé dans GITHUB
 
 17062020 - #DAY2:
-    GIT avec desktop et command line. commit et branch 
+    GIT avec desktop et commande line. commit et branch 
