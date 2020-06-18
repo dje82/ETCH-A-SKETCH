@@ -7,11 +7,11 @@ https://www.theodinproject.com/tracks/full-stack-javascript <br><br>
 Good Luck  to me !<br>
 
 16062020 - #DAY1:<br>
-&nbsp Basics concept of web : OK<br>
+&nbsp;Basics concept of web : OK<br>
 
-&nbsp Installation in VBox a Xubuntu : OK<br>
-&nbsp Tools for developing  VSCODE,  GIT and GITHUB : OK<br>
-&nbsp Creation SSH key on  PC and VM and import to Github : OK<br>
+    Installation in VBox a Xubuntu : OK<br>
+    Tools for developing  VSCODE,  GIT and GITHUB : OK<br>
+    Creation SSH key on  PC and VM and import to Github : OK<br>
     
 17062020 - #DAY2:<br>
     GIT video learning (desktop and command line) : OK<br>
