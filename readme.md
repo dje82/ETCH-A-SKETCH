@@ -1,4 +1,4 @@
-16/06/2020 :    Launching MyOdinProject ! <br>
+<h1>16/06/2020 :    Launching MyOdinProject ! </h1><br>
                 Target : become an remote developper in order to stay live in Peru ! <br>
 account used: dje82@msn.com <br>
 starting cursus : "Full Stack JavaScript " <br>
@@ -20,7 +20,12 @@ Good Luck  to me !<br>
 
 17062020 - #DAY3:<br>
     All readme.md content translate in English :-)<br>
-    Learning: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours)  <br>
+    Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours)  <br>
         Basic HTML and HTML5 : OK<br>
-        Basic CSS (great penguin.html example !!) : OK<br>
-        Applied Visual Design
+        Basic CSS (great penguin.html example !!) : OK <br>
+        Applied Visual Design : OK<br>
+        Applied Accessibility (nice add from html5 for accessibility) : OK<br>
+        Responsive Web Design Principles (nice tips for img sensitive and quality) : OK <br>
+        CSS Flexbox
+        CSS Grid
+        Responsive Web Design Projects
