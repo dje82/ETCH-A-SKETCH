@@ -1,16 +1,16 @@
 <h1>16/06/2020 :    Launching MyOdinProject ! </h1><br>
                 Target : become an remote developper in order to stay live in Peru ! <br>
-account used: dje82@msn.com <br>
+account used: dje82@xxx.xxx <br>
 starting cursus : "Full Stack JavaScript " <br>
 https://www.theodinproject.com/tracks/full-stack-javascript <br><br>
 
 Good Luck  to me !<br>
 
 16062020 - #DAY1:<br>
-    Bascis concept of web : OK<br>
-    Installation in VBox a Xubuntu : OK<br>
-    Tools for developing  VSCODE,  GIT and GITHUB : OK<br>
-    Creation SSH key on  PC and VM and import to Github : OK<br>
+&nbspBascis concept of web : OK<br>
+&nbspInstallation in VBox a Xubuntu : OK<br>
+&nbspTools for developing  VSCODE,  GIT and GITHUB : OK<br>
+&nbspCreation SSH key on  PC and VM and import to Github : OK<br>
     
 17062020 - #DAY2:<br>
     GIT video learning (desktop and command line) : OK<br>
