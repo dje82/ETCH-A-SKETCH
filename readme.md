@@ -23,10 +23,8 @@ Good Luck  to me !<br>
     </ul>
 
 <h2>17062020 - #DAY3:</h2><br>
-    <ul>
-        <li>All readme.md content translate in English :-)</li>
-        <li>Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours)</li>
-    </ul>
+    <p>All readme.md content translate in English :-)</p><br>
+    <p>Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours):</p>
         <ul>
             <li>Basic HTML and HTML5 : OK</li>
             <li>Basic CSS (great penguin.html example !!) : OK</li>
