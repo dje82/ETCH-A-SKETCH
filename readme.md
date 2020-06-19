@@ -38,7 +38,12 @@ Good Luck  to me !<br>
 <h2>19062020 - #DAY4:</h2>
     <p>END : Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours):</p>
         <ul>
-            <li>CSS Grid</li>
-            <li>Responsive Web Design Projects</li>
+            <li>CSS Grid (for create a grid Vs Bootstrap :-) ) : OK </li>
         </ul>
-    <p>End Work on google-homepage</p>
+    <p>Responsive Web Design Projects</p>
+        <ul>
+            <li>Build a Tribute Page : PASSED </li>
+            <a href="https://codepen.io/dje82/pen/qBbRQYM">Lien vers page</a>
+            <p>ou dans le repertoire</p>
+            <li>Build a Survey Form : </li>
+        </ul>
