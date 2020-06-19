@@ -33,6 +33,7 @@ Good Luck  to me !<br>
             <li>Responsive Web Design Principles (nice tips for img sensitive and quality) : OK</li>
             <li>CSS Flexbox (Responsive Web Design utilisation de flex) : OK</li>
         </ul>
+    <p>Work on google-homepage</p>
 
 <h2>19062020 - #DAY4:</h2>
     <p>END : Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours):</p>
