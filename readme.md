@@ -43,7 +43,9 @@ Good Luck  to me !<br>
     <p>Responsive Web Design Projects</p>
         <ul>
             <li>Build a Tribute Page : PASSED </li>
-            <a href="https://codepen.io/dje82/pen/qBbRQYM">Lien vers page</a>
-            <p>ou dans le repertoire</p>
+            <a href="https://codepen.io/dje82/pen/qBbRQYM" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
             <li>Build a Survey Form : </li>
+            <a href="https://codepen.io/dje82/pen/JjGEwbq" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
         </ul>
