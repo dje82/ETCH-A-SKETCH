@@ -1,4 +1,58 @@
 body {
-    background: rgb(58 58 58);
-    color:wheat;
-  }
+  background: rgb(58 58 58);
+  color: wheat;
+  list-style: none;
+}
+
+header {
+  display:flex;
+  position: fixed;
+  padding-bottom: 50px;
+  border-bottom: 2px solid black;
+  width: 100%;
+  top: 0;
+  min-height: 75px;
+  align-items: center;
+  padding-bottom: 5px;
+  background: black;
+}
+
+#nav-bar{
+  font-size: large;
+  display: flex;
+  text-align: right;
+}
+
+.nav-link {
+  color: white;
+  text-decoration: none;
+  padding:20px
+}
+
+main{
+  margin-top: 100px;
+}
+
+@media (min-width: 600px) {
+  h2 {
+  color: red;
+    }
+}
+
+#CSSflexbox{
+  display: flex;
+  height: 150px;
+  width: auto;
+
+}
+
+#box1, #box2 , #box3 {
+  background-color: gainsboro;
+  border: 1px solid wheat;
+  border-radius: 5px;
+  text-align: center;
+  width: 50%;
+  height: 100%;
+  margin: 5px;
+
+}

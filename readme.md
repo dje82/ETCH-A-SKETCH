@@ -48,6 +48,16 @@ Good Luck  to me !<br>
             <li>Build a Survey Form : PASSED !!!!!</li>
             <a href="https://codepen.io/dje82/pen/JjGEwbq" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
+            <li>Build a Product Landing Page : started</li>
+            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
+        </ul>
+
+<h2>WEEKEND :-) </h2>
+
+<h2>22062020 - #DAY5:</h2>
+    <p>Responsive Web Design Projects</p>
+        <ul>
             <li>Build a Product Landing Page : </li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
