@@ -13,56 +13,50 @@
   <header id="header">
     <img id="header-img" src="http://lorempixel.com/75/75/business/" alt="logo">
     <nav id="nav-bar">
-      <li><a class="nav-link" href="#Product">Our Product</a></li>
-      <li><a class="nav-link" href="#Prices">Prices</a></li>
-      <li><a class="nav-link" href="#Contact">Contact US</a></li>
+      <ul id="menu">
+        <a class="nav-link" href="#Product">Our Product</a>
+        <a class="nav-link" href="#Prices">Prices</a>
+        <a class="nav-link" href="#Contact">Contact US</a>
+      </ul>
     </nav>
+
   </header>
 
   <main>
-
-    <div class="div" id="Product">
-        <h2>Our Products are the best ever !</h2>
-             
+  <section id="Product">
+    <h2>Our Products are the best ever !</h2>
         <div class="div" id="CSSflexbox">
-            <div class="div" id="box1">
-                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox1">
+            <div class="box">
+                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox1" id="prod-img">
+            </div>  
+            <div class="box">
+                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox2" id="prod-img">
             </div>
-            <div class="div" id="box2">
-                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox2">
-            </div>
-            <div class="div" id="box3">
-                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox3">
+            <div class="box">
+                <img src="http://lorempixel.com/300/150/cats/" alt="catsbox3" id="prod-img">
             </div>
         </div>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar dolor nunc, ut ornare nisi fermentum ut.</p>
-        <video src="https://www.youtube.com/watch?v=5Peo-ivmupE" controls type="video/mp4" id="video"></video>  
-    </div>
+  </section>
 
-    <div class="div" id="Prices">
+  <section id="Prices">
       <h2>Best Prices for this quality !!</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent pulvinar dolor nunc, ut ornare nisi fermentum ut. Donec gravida metus vel viverra tristique. Nullam laoreet velit diam. In mattis, dolor in facilisis consequat, arcu diam vestibulum nisi, vel placerat elit neque non massa. Vivamus turpis ex, vulputate nec ultrices eu, auctor a tortor. Nullam bibendum nulla et accumsan eleifend. Vestibulum aliquet ornare cursus. Quisque vel arcu et tortor eleifend semper non nec tortor. Proin vitae scelerisque justo. Vivamus bibendum vestibulum libero. Phasellus condimentum lectus eget dui porta, in ornare justo aliquet. Morbi condimentum tempus dolor, dapibus facilisis elit porttitor suscipit. Phasellus viverra, ligula ut semper pulvinar, tortor sem tincidunt ex, id lobortis nibh diam ut ligula.
+        Cras mauris nibh, pellentesque sed semper ac, tincidunt non felis. Proin dictum enim mi, eu placerat justo laoreet id. In luctus libero eu risus eleifend vestibulum. Ut odio mauris, tempor ac augue in, laoreet varius massa. Mauris mi augue, auctor at sapien a, maximus elementum est. Cras porttitor dolor metus. Nam luctus dictum laoreet. Nullam molestie venenatis metus nec commodo. Vestibulum maximus sit amet quam eu euismod. Aliquam convallis porttitor est a dictum. Donec euismod leo elit, sit amet gravida purus tempus id. In viverra interdum odio, quis laoreet lacus elementum ut. In venenatis odio ut arcu imperdiet maximus. In vitae ipsum dapibus, pharetra metus nec, fringilla nibh.</p>
+        <p>Check this video !</p>
+        <video src="https://www.youtube.com/watch?v=5Peo-ivmupE" controls type="video/mp4" id="video"></video>   
+  </section>
 
-        Sed vulputate massa ullamcorper, finibus lectus in, consectetur magna. Donec eu semper mauris, eu elementum est. Cras dolor ligula, aliquet eu metus eu, ultrices ornare sem. Aliquam erat volutpat. Ut rhoncus aliquam velit eget molestie. Nullam pharetra ornare dui, eget laoreet turpis. Integer sit amet blandit nunc. Sed massa nulla, pellentesque id arcu a, pellentesque imperdiet mi. Sed sagittis mi ac eros rhoncus tempus. Ut rhoncus condimentum velit nec placerat. Quisque ante sapien, hendrerit ac mauris non, egestas scelerisque tellus. Proin dapibus turpis eu ante varius imperdiet.
-
-        Cras mauris nibh, pellentesque sed semper ac, tincidunt non felis. Proin dictum enim mi, eu placerat justo laoreet id. In luctus libero eu risus eleifend vestibulum. Ut odio mauris, tempor ac augue in, laoreet varius massa. Mauris mi augue, auctor at sapien a, maximus elementum est. Cras porttitor dolor metus. Nam luctus dictum laoreet. Nullam molestie venenatis metus nec commodo. Vestibulum maximus sit amet quam eu euismod. Aliquam convallis porttitor est a dictum. Donec euismod leo elit, sit amet gravida purus tempus id. In viverra interdum odio, quis laoreet lacus elementum ut. In venenatis odio ut arcu imperdiet maximus. In vitae ipsum dapibus, pharetra metus nec, fringilla nibh. Curabitur sagittis, lectus in accumsan tempus, sem lectus faucibus felis, id dictum tortor leo vel urna. Donec blandit neque mauris.</p>
-
-    </div>
-
-    <div class="div" id="Contact">
-      <h2>Question ? Contact Us ! </h2>
-      <p>Remplissez le forumulaires ci dessous</p>
-      <form action="https://www.freecodecamp.com/email-submit" id="form">
-        <label for="name">Nom:</label><br>
-        <input type="text" id="name"><br><br>
-        <label for="email">Email:</label><br>
-        <input type="email" id="email" placeholder="Your email please" required><br><br>
-        <label for="message">Message:</label><br>
-        <textarea name="message" cols="50" rows="4"></textarea><br><br>
+  <section id="Contact">
+      <h2>Questions ? Contact Us ! </h2> 
+      <form id="form" action="https://www.freecodecamp.com/email-submit" >
+        <label for="email">Email:</label>
+        <input name="email" type="email" id="email" placeholder="Your email please" required><br><br>
+        <label for="message">Your Message:</label><br><br>
+        <textarea name="message" id="message" cols="50" rows="5"></textarea><br>
         <input type="submit" id="submit" value="Send Message">
-      </form>
-    </div>
-  </main>
+      </form> 
+  </section>
+</main>
 
 </body>
 
