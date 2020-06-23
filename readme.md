@@ -58,7 +58,19 @@ Good Luck  to me !<br>
 <h2>22062020 - #DAY5:</h2>
     <p>Responsive Web Design Projects</p>
         <ul>
-            <li>Build a Product Landing Page : </li>
+            <li>Build a Product Landing Page : continued </li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
+        </ul>
+    <p>A very small day today</p>
+
+<h2>23062020 - #DAY6:</h2>
+    <p>Responsive Web Design Projects</p>
+        <ul>
+            <li>Build a Product Landing Page : PASSED !!!!! </li>
+            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
+            <li>Build a Technical Documentation Page : Start </li>
+            <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
