@@ -2,3 +2,101 @@ body {
     background: rgb(58 58 58);
     color:wheat;
   }
+
+header {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.codeblock {
+  background-color: black;
+  color: green;
+  padding: 10px;
+  margin: 0px 100px 0px 25px;
+  line-height: 25px;
+}
+
+#navbar{
+  position: fixed;
+}
+
+#title{
+  width: 375px;
+  text-align: center;
+}
+
+#menu {
+  width: 350px;
+  position: fixed;
+  height: 520px;
+  overflow-y: scroll;
+}
+
+#navbar li {
+  list-style: none;
+  border-bottom: 1px solid wheat;
+  width: 100%;
+  line-height: 50px;
+}
+
+#navbar li:hover {
+  background: grey;
+}
+
+
+a {
+  text-decoration: none;
+  color: wheat;
+  font-size: large;
+  font-weight: bold;
+  
+}
+
+#main-doc{
+  margin-left: 400px;
+}
+
+section {
+  padding: 10px;
+}
+
+section ul{
+  margin-left: 25px;
+  line-height: 35px;
+}
+
+.main-section header:hover {
+  animation-name: colortitle;
+  animation-duration: 1s;
+}
+
+@keyframes colortitle {
+  from {background: rgb(58 58 58);
+    ;}
+  to {  background: grey;}
+}
+
+
+
+@media only screen and (max-width: 815px) {
+  #title {
+    width: 100%;
+  }
+
+  #navbar {
+    position: relative;
+    width: 100%;
+  }
+
+  #menu {
+    position: relative;
+    border: 2px solid black;
+    width: 95%;
+    height: 300px;
+  }
+
+  #main-doc{
+    margin-top: 10px;
+    margin-left: 10px;
+  } 
+}

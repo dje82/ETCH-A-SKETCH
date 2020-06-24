@@ -70,7 +70,7 @@ Good Luck  to me !<br>
             <li>Build a Product Landing Page : PASSED !!!!! </li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
-            <li>Build a Technical Documentation Page : Start </li>
+            <li>Build a Technical Documentation Page :  PASSED !!!!!  </li>
             <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
