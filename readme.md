@@ -42,13 +42,13 @@ Good Luck  to me !<br>
         </ul>
     <p>Responsive Web Design Projects</p>
         <ul>
-            <li>Build a Tribute Page : PASSED !!!!!</li>
+            <li>1-Build a Tribute Page : PASSED !!!!!</li>
             <a href="https://codepen.io/dje82/pen/qBbRQYM" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
-            <li>Build a Survey Form : PASSED !!!!!</li>
+            <li>2-Build a Survey Form : PASSED !!!!!</li>
             <a href="https://codepen.io/dje82/pen/JjGEwbq" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
-            <li>Build a Product Landing Page : started</li>
+            <li>3-Build a Product Landing Page : started</li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
@@ -58,7 +58,7 @@ Good Luck  to me !<br>
 <h2>22062020 - #DAY5:</h2>
     <p>Responsive Web Design Projects</p>
         <ul>
-            <li>Build a Product Landing Page : continued </li>
+            <li>3-Build a Product Landing Page : continued </li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
@@ -67,10 +67,10 @@ Good Luck  to me !<br>
 <h2>23062020 - #DAY6:</h2>
     <p>Responsive Web Design Projects</p>
         <ul>
-            <li>Build a Product Landing Page : PASSED !!!!! </li>
+            <li>3-Build a Product Landing Page : PASSED !!!!! </li>
             <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
-            <li>Build a Technical Documentation Page :  PASSED !!!!!  </li>
+            <li>4-Build a Technical Documentation Page :  PASSED !!!!!  </li>
             <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
