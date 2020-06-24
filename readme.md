@@ -73,4 +73,7 @@ Good Luck  to me !<br>
             <li>4-Build a Technical Documentation Page :  PASSED !!!!!  </li>
             <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Lien vers page</a>
             <p>ou dans le repertoire Projects</p>
+            <li>5-Build a Personal Portfolio Webpage: start </li>
+            <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Lien vers page</a>
+            <p>ou dans le repertoire Projects</p>
         </ul>
