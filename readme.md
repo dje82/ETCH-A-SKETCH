@@ -83,4 +83,6 @@ Good Luck  to me !<br>
     <ul>
         <li> Tuning du 5-Build a Personal Portfolio Webpage, avec intégration des projets codepen.io</li>
         <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Lien vers page</a>
+        <li>Rework MyOdinProject googlehomepage after freecodecamp learning more easy :-)</li>
+
     </ul>
