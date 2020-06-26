@@ -43,13 +43,13 @@ Good Luck  to me !<br>
     <p>Responsive Web Design Projects</p>
         <ul>
             <li>1-Build a Tribute Page : PASSED !!!!!</li>
-            <a href="https://codepen.io/dje82/pen/qBbRQYM" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/qBbRQYM" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
             <li>2-Build a Survey Form : PASSED !!!!!</li>
-            <a href="https://codepen.io/dje82/pen/JjGEwbq" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/JjGEwbq" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
             <li>3-Build a Product Landing Page : started</li>
-            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
 
@@ -59,30 +59,39 @@ Good Luck  to me !<br>
     <p>Responsive Web Design Projects</p>
         <ul>
             <li>3-Build a Product Landing Page : continued </li>
-            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
-    <p>A very small day today</p>
+    
 
 <h2>23062020 - #DAY6:</h2>
     <p>Responsive Web Design Projects</p>
         <ul>
             <li>3-Build a Product Landing Page : PASSED !!!!! </li>
-            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/bGEgzdK" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
             <li>4-Build a Technical Documentation Page :  PASSED !!!!!  </li>
-            <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/ZEQKMYK" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
             <li>5-Build a Personal Portfolio Webpage : PASSED !!!!!</li>
-            <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Lien vers page</a>
+            <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Link to page</a>
             <p>ou dans le repertoire Projects</p>
         </ul>
 
-<h2>23062020 - #DAY6:</h2>
+
+<h2>24062020 - #DAY7:</h2>
+    <p>A very small day today</p>
+    <p>GET the Responsive Web Design Certification : DONE !!</p>
+    <a href="https://www.freecodecamp.org/certification/dje/responsive-web-design" target="_blank">Check Certif</a>
+
+
+<h2>25062020 - #DAY8:</h2>
     <p>Responsive Web Design Projects</p>
     <ul>
         <li> Tuning du 5-Build a Personal Portfolio Webpage, avec intégration des projets codepen.io</li>
-        <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Lien vers page</a>
+        <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Link to page</a>
         <li>Rework MyOdinProject googlehomepage after freecodecamp learning more easy :-) : DONE !!!</li>
-        <li>MyOdinProject: PROJECT: HTML/CSS => Start Difficult Version (optional): Build the Google.com search results page : START</li>
+        <li>MyOdinProject: PROJECT: HTML/CSS => Difficult Version (optional): Build the Google.com search results page : START !!</li>
+        
     </ul>
+
