@@ -94,4 +94,13 @@ Good Luck  to me !<br>
         <li>MyOdinProject: PROJECT: HTML/CSS => Difficult Version (optional): Build the Google.com search results page : START !!</li>
     </ul>
     
-
+<h2>26062020 - #DAY9:</h2>
+    <p>Responsive Web Design Projects</p>
+    <ul>
+        <li>MyOdinProject: PROJECT: HTML/CSS => Difficult Version (optional): Build the Google.com search results page : DONE !!</li>
+        <li>Pull Request of my google homepage and result page Project. Ending The Front End part og odin Project</li>
+    </ul>
+    <p>Starting JavaScript Basics course </p>
+    <ul>
+        <li>FUNDAMENTALS PART 1</li>
+    </ul>
