@@ -92,6 +92,6 @@ Good Luck  to me !<br>
         <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Link to page</a>
         <li>Rework MyOdinProject googlehomepage after freecodecamp learning more easy :-) : DONE !!!</li>
         <li>MyOdinProject: PROJECT: HTML/CSS => Difficult Version (optional): Build the Google.com search results page : START !!</li>
-        
     </ul>
+    
 
