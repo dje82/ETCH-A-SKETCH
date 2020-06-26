@@ -19,7 +19,7 @@ Good Luck  to me !<br>
         <li>GIT video learning (desktop and command line) : OK</li>
         <li>Set up GIT with command line and extension VSCODE commit et branch : OK</li>
         <li>Creation of google-homepage-project on https://github.com/dje82/google-homepage.git : OK</li>
-        <li>Create the first page of google : OK</li>
+        <li>MyOdinProject: PROJECT: HTML/CSS => Create the first page of google : OK</li>
     </ul>
 
 <h2>18062020 - #DAY3:</h2>
@@ -83,6 +83,6 @@ Good Luck  to me !<br>
     <ul>
         <li> Tuning du 5-Build a Personal Portfolio Webpage, avec intégration des projets codepen.io</li>
         <a href="https://codepen.io/dje82/pen/rNxmQzL" target="_blank">Lien vers page</a>
-        <li>Rework MyOdinProject googlehomepage after freecodecamp learning more easy :-)</li>
-
+        <li>Rework MyOdinProject googlehomepage after freecodecamp learning more easy :-) : DONE !!!</li>
+        <li>MyOdinProject: PROJECT: HTML/CSS => Start Difficult Version (optional): Build the Google.com search results page : START</li>
     </ul>
