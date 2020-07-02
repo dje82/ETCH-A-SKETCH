@@ -100,7 +100,15 @@ Good Luck  to me !<br>
         <li>MyOdinProject: PROJECT: HTML/CSS => Difficult Version (optional): Build the Google.com search results page : DONE !!</li>
         <li>Pull Request of my google homepage and result page Project. Ending The Front End part og odin Project</li>
     </ul>
+
+<h2>WEEKEND + CLOSED DAY :-) </h2>
+
+<h2>01072020 - #DAY10:</h2>
     <p>Starting JavaScript Basics course </p>
     <ul>
         <li>FUNDAMENTALS PART 1</li>
+        <li>FUNDAMENTALS PART 2</li>
+        <li>DEVELOPER TOOLS 2</li>
+        <li>FUNDAMENTALS PART 3</li>
+        <li>Setting up PROJECT: ROCK PAPER SCISSORS</li>
     </ul>
