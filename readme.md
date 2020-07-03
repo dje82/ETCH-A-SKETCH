@@ -104,7 +104,7 @@ Good Luck  to me !<br>
 <h2>WEEKEND + CLOSED DAY :-) </h2>
 
 <h2>01072020 - #DAY10:</h2>
-    <p>Starting JavaScript Basics course </p>
+    <p>Starting JavaScript Basics course Odin Project</p>
     <ul>
         <li>FUNDAMENTALS PART 1</li>
         <li>FUNDAMENTALS PART 2</li>
@@ -112,3 +112,11 @@ Good Luck  to me !<br>
         <li>FUNDAMENTALS PART 3</li>
         <li>Setting up PROJECT: ROCK PAPER SCISSORS</li>
     </ul>
+
+<h2>02072020 - #DAY11:</h2>
+    <p>START : Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours):</p>
+    <ul>
+        <li>Basic JavaScript: START</li>
+        <li>Basic JavaScript: 50% Done !</li>
+    </ul>
+    <p>Starting Dev Odin PROJECT: ROCK PAPER SCISSORS</p>
