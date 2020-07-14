@@ -114,9 +114,24 @@ Good Luck  to me !<br>
     </ul>
 
 <h2>02072020 - #DAY11:</h2>
-    <p>START : Learning on: https://www.freecodecamp.org/ : Responsive Web Design Certification (300 hours):</p>
+    <p>START : Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours):</p>
     <ul>
         <li>Basic JavaScript: START</li>
         <li>Basic JavaScript: 50% Done !</li>
     </ul>
     <p>Starting Dev Odin PROJECT: ROCK PAPER SCISSORS</p>
+
+<h2>WEEKEND + MOVING DAYS :-) </h2>
+
+<h2>08072020 - #DAY12:</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Basic JavaScript: 82% DONE !</li>
+    </ul>
+
+<h2>13072020 - #DAY13:</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Basic JavaScript: 99% DONE !</li>
+
+    </ul>
