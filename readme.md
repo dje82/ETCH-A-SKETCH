@@ -133,5 +133,12 @@ Good Luck  to me !<br>
     <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
     <ul>
         <li>Basic JavaScript: 99% DONE !</li>
+    </ul>
 
+<h2>14072020 - #DAY14: THE FRENCH DAY !!!!! #allezlesbleus</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Basic JavaScript: 100% DONE !</li>
+        <li>ES6: 52% Done !</li>
+        
     </ul>
