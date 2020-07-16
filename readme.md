@@ -140,5 +140,11 @@ Good Luck  to me !<br>
     <ul>
         <li>Basic JavaScript: 100% DONE !</li>
         <li>ES6: 52% Done !</li>
-        
+    </ul>
+
+<h2>15072020 - #DAY15</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>ES6: 100% Done !</li>
+        <li>Regular Expressions (REGEX): 52%</li>
     </ul>
