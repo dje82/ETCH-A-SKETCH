@@ -155,3 +155,10 @@ Good Luck  to me !<br>
         <li>Regular Expressions (REGEX): 100% Done !!</li>
         <li>Introduction to the Debugging: : 100% Done !!</li>
     </ul>
+
+<h2>17072020 - #DAY17</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Basic Data Structures (ARRAYS & OBJECTS): 85% Done !!</li>
+        
+    </ul>
