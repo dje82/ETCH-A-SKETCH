@@ -159,6 +159,6 @@ Good Luck  to me !<br>
 <h2>17072020 - #DAY17</h2>
     <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
     <ul>
-        <li>Basic Data Structures (ARRAYS & OBJECTS): 85% Done !!</li>
-        
+        <li>Basic Data Structures (ARRAYS & OBJECTS): 100% Done !!</li>
+        <li>Basic Algorithm Scripting: 38% Done!</li>
     </ul>
