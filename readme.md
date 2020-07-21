@@ -162,3 +162,12 @@ Good Luck  to me !<br>
         <li>Basic Data Structures (ARRAYS & OBJECTS): 100% Done !!</li>
         <li>Basic Algorithm Scripting: 38% Done!</li>
     </ul>
+
+<h2>WEEKEND</h2>
+
+<h2>20072020 - #DAY18</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Basic Algorithm Scripting: 100% Done !!!!</li>
+        <li>Object Oriented Programming: 81% Done</li>
+    </ul>
