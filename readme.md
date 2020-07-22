@@ -171,3 +171,13 @@ Good Luck  to me !<br>
         <li>Basic Algorithm Scripting: 100% Done !!!!</li>
         <li>Object Oriented Programming: 81% Done</li>
     </ul>
+
+<h2>DAY§ OFF</h2>
+
+
+<h2>22072020 - #DAY19</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Object Oriented Programming: 100% Done !!!!!!!</li>
+        <li>Functional Programming Challenges: 38% Done</li>
+    </ul>
