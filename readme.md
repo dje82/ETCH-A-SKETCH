@@ -172,7 +172,7 @@ Good Luck  to me !<br>
         <li>Object Oriented Programming: 81% Done</li>
     </ul>
 
-<h2>DAY§ OFF</h2>
+<h2>DAYS OFF</h2>
 
 
 <h2>22072020 - #DAY19</h2>
@@ -180,4 +180,12 @@ Good Luck  to me !<br>
     <ul>
         <li>Object Oriented Programming: 100% Done !!!!!!!</li>
         <li>Functional Programming Challenges: 38% Done</li>
+    </ul>
+
+<h2>DAYS OFF + WEEKEND</h2>
+
+<h2>27072020 - #DAY20</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Functional Programming Challenges: 88% Done</li>
     </ul>
