@@ -189,3 +189,50 @@ Good Luck  to me !<br>
     <ul>
         <li>Functional Programming Challenges: 88% Done</li>
     </ul>
+
+<h2>DIA DE PERU OGG</h2>
+
+<h2>29072020 - #DAY21</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Functional Programming Challenges: 100% Done !!!!</li>
+        <li>Intermediate Algorithm Scripting Challenges: 19% Done !</li>
+    </ul>
+
+<h2>29072020 - #DAY21</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 24% Done !</li>
+    </ul>
+
+<h2>30072020 - #DAY22 - aSmallOne</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 28% Done !</li>
+    </ul>
+
+<h2>31072020 - #DAY23</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 34% Done !</li>
+    </ul>
+
+<h2>WEEKEND</h2>
+
+<h2>03082020 - #DAY24</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 57% Done !</li>
+    </ul>
+
+<h2>04082020 - #DAY25</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 68% Done !</li>
+    </ul>
+
+<h2>05082020 - #DAY26</h2>
+    <p>Learning on: https://www.freecodecamp.org/ : JavaScript Algorithms and Data Structures Certification (300 hours)</p>
+    <ul>
+        <li>Intermediate Algorithm Scripting Challenges: 100% Done !!!!</li>
+    </ul>
