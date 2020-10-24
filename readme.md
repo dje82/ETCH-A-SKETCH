@@ -236,3 +236,7 @@ Good Luck  to me !<br>
     <ul>
         <li>Intermediate Algorithm Scripting Challenges: 100% Done !!!!</li>
     </ul>
+
+<h2>23102020 - #DAYxxx</h2>
+    <p>Back in Business after 2 month ...... !! </p>
+    <p>Relaunch Odin with Project: Rock Paper Scissors Javascript</p>
