@@ -240,3 +240,6 @@ Good Luck  to me !<br>
 <h2>23102020 - #DAYxxx</h2>
     <p>Back in Business after 2 month ...... !! </p>
     <p>Relaunch Odin with Project: Rock Paper Scissors Javascript</p>
+
+<h2>25102020</h2>
+    <p>quick: Rock Paper Scissors Javascript workaround</p>
