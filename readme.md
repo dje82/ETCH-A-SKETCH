@@ -243,3 +243,8 @@ Good Luck  to me !<br>
 
 <h2>25102020</h2>
     <p>quick: Rock Paper Scissors Javascript workaround</p>
+
+<h2>26102020</h2>
+    <p>END and push Project Rock Paper Scissors Javascript</p>
+
+    
