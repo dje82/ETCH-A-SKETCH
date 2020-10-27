@@ -247,4 +247,5 @@ Good Luck  to me !<br>
 <h2>26102020</h2>
     <p>END and push Project Rock Paper Scissors Javascript</p>
 
-    
+<h2>27102020</h2>
+    <p>JS exercices (https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4)</p>
