@@ -249,3 +249,5 @@ Good Luck  to me !<br>
 
 <h2>27102020</h2>
     <p>JS exercices (https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4)</p>
+    <p>JavaScript30 first Exercice</p>
+    <p>Starting ETCH A SKETCH project</p>
