@@ -11,6 +11,19 @@
       THE TITLE OF YOUR WEBPAGE
     </h1>
     <div id="container"></div>
+
+    <button onclick="alert('Hello World')">Click Me</button>
+    <br><br>
+    <button id="btn">Click Me2</button>
+      <script>
+        const btn = document.querySelector('#btn');
+        btn.onclick = () => alert("Hello World 2 ");
+
+        btn.addEventListener('click', function (e) {
+        e.target.style.background = 'blue';
+        });
+      </script>
+
   </body>
 
 <script>
