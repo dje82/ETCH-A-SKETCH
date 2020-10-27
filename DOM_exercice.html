@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>
+      THE TITLE OF YOUR WEBPAGE
+    </h1>
+    <div id="container"></div>
+  </body>
+
+<script>
+
+
+const container = document.querySelector('#container');
+//add a div with content
+const content = document.createElement('div');
+content.classList.add('content');
+content.textContent = 'This is the glorious text-content!';
+
+container.appendChild(content);
+
+//a <p> with red text that says “Hey I’m red!”
+let createP = document.createElement('p');
+createP.textContent ="Hey I'm red !";
+createP.style = "color: red";
+
+container.appendChild(createP);
+
+//an <h3> with blue text that says “I’m a blue h3!”
+let createH3 = document.createElement('h3');
+createH3.style ="color: blue"
+createH3.textContent="I’m a blue h3!";
+
+container.appendChild(createH3);
+
+// a <div> with a black border and pink background color with the following elements inside of it:
+//     another <h1> that says “I’m in a div”
+//     a <p> that says “ME TOO!”
+//     Hint for this one: after creating the div with createElement,
+//     append the <h1> and <p> to it before adding it to the container.
+
+let newDiv = document.createElement('div');
+newDiv.style ="border: solid 2px black ; background : pink";
+
+let newDivH1 = document.createElement('h1');
+newDivH1.textContent ="I'm in a div" ;
+newDiv.appendChild(newDivH1);
+
+let newDivP = document.createElement('p')
+newDivP.textContent ="ME TOO !" ;
+newDiv.appendChild(newDivP);
+
+
+container.parentNode.insertBefore(newDiv, container)
+
+
+
+</script>
+</html>
