@@ -2,3 +2,15 @@ body {
     background: rgb(58,58,58);
     color: wheat;
 }
+
+.container {
+    display: grid;
+    border: solid 2px black;
+    margin: auto;
+}
+
+.grid-cell {
+    border: 1px solid gray;
+    background-color: white;
+
+  }
