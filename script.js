@@ -26,7 +26,7 @@ const switchGrey = document.getElementById("shadow-checkbox");
 
 
 
-//functions
+//FUNCTIONS:
 function makeGrid(rows) {
     //THANKS TO THE LAST STUDENT .....
     for (i = 0; i < (rows * rows); i++) {
@@ -104,13 +104,6 @@ function randomColor() {
         color += charAllows.charAt(Math.floor(Math.random() * 16));
     }
     return color
-}
-
-function decreaseOpacity(value) {
-    console.log('function decrese opacity')
-    let opacity = value;
-    opacity = opacity - 0.2;
-    return opacity
 }
 
 function resetToBlack() {
